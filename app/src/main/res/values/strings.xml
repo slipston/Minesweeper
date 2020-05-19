@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Minesweeper</string>
+    <string name="place_flag">Place flag</string>
+    <string name="try_field">Try field</string>
+    <string name="click_warning">Already clicked!</string>
+    <string name="lost_message">You lost</string>
+    <string name="win_message">You won!</string>
+    <string name="flag">F</string>
+
+</resources>
